@@ -1,5 +1,5 @@
 # algorithms-and-data-structures
- Implementation of basic algorithms and datastructures in C++ language
+ Implementation of basic algorithms and datastructures in C++ language for my University classes
 
 ## Code requirements:
 
